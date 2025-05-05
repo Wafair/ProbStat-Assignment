@@ -1,0 +1,17 @@
+Core_Speed				
+L2_Cache	
+Manufacturer	
+Max_Power	
+Memory	
+Memory_Bandwidth	
+Memory_Bus	
+Memory_Speed	
+Memory_Type	
+Notebook_GPU	
+Open_GL	
+PSU	
+Pixel_Rate	
+Process	
+ROPs	
+TMUs	
+Texture_Rate	
